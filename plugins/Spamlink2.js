@@ -5,7 +5,7 @@ handler.command = /^(Spam2)$/i;
 export default handler;
 global.Spam2 = `
 
-COMUNIDADES DE SPA 🎗
+COMUNIDADES DE SPAm 🎗
 ━━━━━━━━🎗━━━━━━━━━
 
 1. https://chat.whatsapp.com/E7KXhewz6sFFCDdsEndX7z
